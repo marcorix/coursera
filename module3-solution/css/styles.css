@@ -1,0 +1,46 @@
+
+
+h1 {
+    margin: 40px 60px;
+}
+
+/* navbar */
+.navbar-default {
+    background-color: lightgray;
+    
+}
+
+.content {
+    background-color: lightgray;
+    
+    color: black;
+    text-align: center;
+}
+
+.navbar-default .navbar-brand {
+    color: black;
+    font-size: bold;
+}
+/* Link */
+.navbar-default .navbar-nav > li > a {
+    color: black;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+  }
+
+  .content h2 {
+      margin-bottom: 30px;
+  }
+
+  .box {
+      position: relative;
+      
+  }
+
+  .row {
+      padding-left: 16px;
+      padding-right: 16px;
+  }
+
